@@ -38,6 +38,8 @@ date: "2nd May 2019"
 ---
 ```
 
+Note that author and date fields are optional.
+
 Pages are used for displaying general information, 
 and are not typically associated with a date.
 Their Markdown files are located in the main directory,
