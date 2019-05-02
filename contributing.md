@@ -42,8 +42,14 @@ Pages are used for displaying general information,
 and are not typically associated with a date.
 Their Markdown files are located in the main directory,
 at the same level as `index.md`.
+To include a page in the site's navigation area,
+you should edit the `header_pages` section of `_config.yml`,
+and add the Markdown file corresponding to your new page.
 
 Posts are typically associated with a date, 
 and take on more of a 'news' functionality. 
 Their Markdown files should be situated in a directory called `_posts`,
 located at the top level of the repository.
+
+Edits can be submitted through the GitHub interface in the form of pull requests,
+which can then be approved by the site's moderators.
