@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Readings"
+title: "Reading"
 ---
 
 Our selected readings:
