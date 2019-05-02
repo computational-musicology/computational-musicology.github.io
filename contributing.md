@@ -37,3 +37,13 @@ author: "Peter Harrison"
 date: "2nd May 2019"
 ---
 ```
+
+Pages are used for displaying general information, 
+and are not typically associated with a date.
+Their Markdown files are located in the main directory,
+at the same level as `index.md`.
+
+Posts are typically associated with a date, 
+and take on more of a 'news' functionality. 
+Their Markdown files should be situated in a directory called `_posts`,
+located at the top level of the repository.
