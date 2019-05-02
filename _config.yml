@@ -6,4 +6,6 @@ description: >
   for the sake of achieving a better understanding of music.
 header_pages:
   - index.md
+  - purpose.md
+  - reading.md
   - contributing.md
