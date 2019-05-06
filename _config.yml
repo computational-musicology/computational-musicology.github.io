@@ -6,7 +6,6 @@ description: >
   the development and application of computational methods
   for the sake of achieving a better understanding of music.
 header_pages:
-  - index.md
   - purpose.md
   - journal-club.md
   - resources.md
