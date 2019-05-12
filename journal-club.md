@@ -3,7 +3,7 @@ layout: page
 title: "Journal Club"
 ---
 ## Join the meetings
-You can join our monthly journal clubs here: https://epfl.zoom.us/j/300517233. The next date is **May 23rd, 2019, 4 p.m. (GMT)**. If you want to participate in further discussions on Computational Musicology, feel free to contact us via our [Google Group](https://groups.google.com/forum/#!forum/computational-musicology).
+You can join our monthly journal clubs here: [https://epfl.zoom.us/j/300517233](https://epfl.zoom.us/j/300517233). The next date is **May 23rd, 2019, 4 p.m. (GMT)**. If you want to participate in further discussions on Computational Musicology, feel free to contact us via our [Google Group](https://groups.google.com/forum/#!forum/computational-musicology).
 
 ## Readings
 The following papers have been or will be discussed in our monthly journal club.
