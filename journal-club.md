@@ -8,7 +8,7 @@ The Journal Clubs are monthly online meetings in which we discuss a recent paper
 
 You can join our monthly journal clubs here: [https://epfl.zoom.us/j/300517233](https://epfl.zoom.us/j/300517233). 
 
-The next meeting date is **Friday, December 20th, 2019, 4pm BST, 5pm CEST**.
+The next meeting date is **Thursday, January 30th, 2020, 3pm GMT, 4pm CEST**.
 
 The paper to be discussed is shown at the top of the list below. If you want to participate in further discussions on Computational Musicology, 
 feel free to join our [Google Group](https://groups.google.com/forum/#!forum/computational-musicology).
@@ -18,6 +18,7 @@ feel free to join our [Google Group](https://groups.google.com/forum/#!forum/com
 The following papers have been or will be discussed in our monthly journal club.
 They should all be available in our [Zotero group](https://www.zotero.org/groups/2332716/computational-musicology).
 
+* [30.01.2020] Gold, B. P. et al. (2020). Predictability and uncertainty in the pleaesure of music: A reward for learning? _Journal of Neuroscience_, 39(47), 9397-9409. https://doi.org/10.1523/JNEUROSCI.0428-19.2019
 * [20.12.2019] Mehr, S. et al. (2019). Universality and diversity in human song. _Science 366_(6468). https://doi.org/10.1126/science.aax0868 
 * [28.11.2019] Tichko, P., Large, E. W. (2019). Modeling infants' perceptual narrowing to musical
 rhythms: neural oscillation and Hebbian plasticity. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14050
