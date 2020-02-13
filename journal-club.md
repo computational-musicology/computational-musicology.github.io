@@ -4,13 +4,13 @@ title: "Journal Club"
 ---
 ## Join the meetings
 
-The Journal Clubs are monthly online meetings in which we discuss a recent paper relevant to the field of Computational Musicology. The meetings are supposed to not last longer than 2 hours. 
+The Journal Clubs are monthly online meetings in which we discuss a recent paper relevant to the field of Computational Musicology. The meetings are supposed to not last longer than 2 hours.
 
-You can join our monthly journal clubs here: [https://epfl.zoom.us/j/300517233](https://epfl.zoom.us/j/300517233). 
+You can join our monthly journal clubs here: [https://epfl.zoom.us/j/300517233](https://epfl.zoom.us/j/300517233).
 
-The next meeting date is **Thursday, February 13th, 2020, 3pm GMT, 4pm CEST**.
+The next meeting date is **Tuesday, March 10th, 2020, 4pm Berlin time**.
 
-The paper to be discussed is shown at the top of the list below. If you want to participate in further discussions on Computational Musicology, 
+The paper to be discussed is shown at the top of the list below. If you want to participate in further discussions on Computational Musicology,
 feel free to join our [Google Group](https://groups.google.com/forum/#!forum/computational-musicology).
 
 ## Readings
@@ -18,8 +18,9 @@ feel free to join our [Google Group](https://groups.google.com/forum/#!forum/com
 The following papers have been or will be discussed in our monthly journal club.
 They should all be available in our [Zotero group](https://www.zotero.org/groups/2332716/computational-musicology).
 
-* [30.01.2020] Gold, B. P. et al. (2020). Predictability and uncertainty in the pleaesure of music: A reward for learning? _Journal of Neuroscience_, 39(47), 9397-9409. https://doi.org/10.1523/JNEUROSCI.0428-19.2019
-* [20.12.2019] Mehr, S. et al. (2019). Universality and diversity in human song. _Science 366_(6468). https://doi.org/10.1126/science.aax0868 
+* [10.03.2020] Gerlach & Font-Clos (2020). A Standardized Project Gutenberg Corpus for Statistical Analysis of Natural Language and Quantitative Linguistics. _Entropy 22_(1), 126; https://doi.org/10.3390/e22010126
+* [13.02.2020] Gold, B. P. et al. (2020). Predictability and uncertainty in the pleasure of music: A reward for learning? _Journal of Neuroscience_, 39(47), 9397-9409. https://doi.org/10.1523/JNEUROSCI.0428-19.2019
+* [20.12.2019] Mehr, S. et al. (2019). Universality and diversity in human song. _Science 366_(6468). https://doi.org/10.1126/science.aax0868
 * [28.11.2019] Tichko, P., Large, E. W. (2019). Modeling infants' perceptual narrowing to musical
 rhythms: neural oscillation and Hebbian plasticity. Annals of the New York Academy of Sciences. https://doi.org/10.1111/nyas.14050
 * [1.8.2019] Smit, E. A., Milne, A. J., Dean, R. T., Weidemann, G. (2019). Perception of affect in unfamiliar musical chords. PLOS ONE. https://doi.org/10.1371/journal.pone.0218570
