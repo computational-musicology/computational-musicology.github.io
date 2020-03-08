@@ -8,7 +8,7 @@ The Journal Clubs are monthly online meetings in which we discuss a recent paper
 
 You can join our monthly journal clubs here: [https://epfl.zoom.us/j/300517233](https://epfl.zoom.us/j/300517233).
 
-The next meeting date is **Tuesday, March 10th, 2020, 4pm Berlin time**.
+The next meeting date is **Tuesday, March 10th, 2020, 5pm Berlin time**.
 
 The paper to be discussed is shown at the top of the list below. If you want to participate in further discussions on Computational Musicology,
 feel free to join our [Google Group](https://groups.google.com/forum/#!forum/computational-musicology).
