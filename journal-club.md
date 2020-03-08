@@ -18,7 +18,7 @@ feel free to join our [Google Group](https://groups.google.com/forum/#!forum/com
 The following papers have been or will be discussed in our monthly journal club.
 They should all be available in our [Zotero group](https://www.zotero.org/groups/2332716/computational-musicology).
 
-* [10.03.2020] Gerlach & Font-Clos (2020). A Standardized Project Gutenberg Corpus for Statistical Analysis of Natural Language and Quantitative Linguistics. _Entropy 22_(1), 126; https://doi.org/10.3390/e22010126
+* [10.03.2020] Lin & Tegmark (2017). Critical Behavior in Physics and Probabilistic Formal Languages. _Entropy 19_(7), 299; https://doi.org/10.3390/e19070299
 * [13.02.2020] Gold, B. P. et al. (2020). Predictability and uncertainty in the pleasure of music: A reward for learning? _Journal of Neuroscience_, 39(47), 9397-9409. https://doi.org/10.1523/JNEUROSCI.0428-19.2019
 * [20.12.2019] Mehr, S. et al. (2019). Universality and diversity in human song. _Science 366_(6468). https://doi.org/10.1126/science.aax0868
 * [28.11.2019] Tichko, P., Large, E. W. (2019). Modeling infants' perceptual narrowing to musical
