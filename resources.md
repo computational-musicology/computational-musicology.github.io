@@ -24,3 +24,4 @@ Here are some external resources for computational musicology:
 * [ISMIR Resources](http://www.ismir.net/resources.html)
 * [Colin Raffel's list](http://colinraffel.com/wiki/mir_datasets)
 * [Musical Corpora Register](https://github.com/dharasim/MCR/wiki)
+* [Anna Kijas's and Francesca Giannetti's sheet](https://docs.google.com/spreadsheets/d/1UyCED16mYxo3XE4RuushxE7DWyqR_CNFecn0k79ldA4/edit#gid=0)
