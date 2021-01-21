@@ -18,6 +18,10 @@ feel free to join our [Google Group](https://groups.google.com/forum/#!forum/com
 The following papers have been or will be discussed in our monthly journal club.
 They should all be available in our [Zotero group](https://www.zotero.org/groups/2332716/computational-musicology).
 
+### 2021
+* [21.01.2021] Navarro-Cáceres, M., Caetano, M., Bernardes, G., Sánchez-Barba, M., & Merchán Sánchez-Jara, J. (2020). A Computational Model of Tonal Tension Profile of Chord Progressions in the Tonal Interval Space. Entropy, 22(11), 1291. [https://doi.org/10.3390/e22111291](https://doi.org/10.3390/e22111291)
+
+
 ### 2020
 * [19.06.2020] Beaty et al. (preprint). Spontaneous Melodic Productions of Expert Musicians Contain Sequencing Biases Seen in Language Production. [https://psyarxiv.com/qdh32/](https://psyarxiv.com/qdh32/)
 * [19.05.2020] Rohrmeier (preprint). The Syntax of Jazz Harmony I: Diatonic Tonality, Phrase Structure, and Form.
